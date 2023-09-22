@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+#contenedor{
+    width: 270px;
+    height: 630px;
+    background: red;
+    margin: 0 auto;
+}
+
+.casilla{
+    width: 28px;
+    height: 28px;
+    float: left;
+    background: rgb(6, 6, 6);
+    border: 1px white solid;
+}
+
+.player{
+    width: 28px;
+    height: 28px;
+    float: left;
+    background: red;
+    border: 1px white solid;
+}
+#dialogo1{
+    background-color: blue;
+    color: #000;
+}
+#cerrar{
+    background-color: blue;
+    color: #000;
+}
